@@ -1,18 +1,15 @@
 {
-  "type": "FeatureCollection"
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Adelphi Acre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.715510,
-          30.420974
-        ]
-      }
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Adelphi Acre"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.715510,
+        30.420974
+      ]
     }
-  ]
+  }
 }
