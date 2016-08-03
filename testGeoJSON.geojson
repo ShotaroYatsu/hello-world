@@ -13,32 +13,6 @@
           30.420974
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Alamo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.719692, 
-          30.282124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Blackshear"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.719612, 
-          30.263756
-        ]
-      }
     }
   ]
 }
