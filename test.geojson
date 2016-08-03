@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Adelphi Acre"
+        "name": "Adelphi Acre",
+        "id": "1"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Alamo"
+        "name": "Alamo",
+        "id": "2"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Blackshear"
+        "name": "Blackshear",
+        "id": "3"
       },
       "geometry": {
         "type": "Point",
