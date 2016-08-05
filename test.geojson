@@ -6,7 +6,8 @@
       "properties": {
         "id": "1",
         "name": "Adelphi Acre",
-        "city": "Austin"
+        "city": "Austin",
+        "href": "http://adelphiacre.org/"
       },
       "geometry": {
         "type": "Point",
