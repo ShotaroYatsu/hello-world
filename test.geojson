@@ -4,8 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1",
         "name": "Adelphi Acre",
-        "id": "1"
+        "city": "Austin"
       },
       "geometry": {
         "type": "Point",
@@ -18,8 +19,9 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "2",
         "name": "Alamo",
-        "id": "2"
+        "city": "Austin"
       },
       "geometry": {
         "type": "Point",
@@ -32,8 +34,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Blackshear",
         "id": "3"
+        "name": "Blackshear",
+        "city": "Austin"
       },
       "geometry": {
         "type": "Point",
