@@ -818,6 +818,70 @@
           30.311454
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52",
+        "name": "Conley-Guerrero",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.710984, 
+          30.265868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53",
+        "name": "Dotty Jordan",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.674009, 
+          30.314943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "54",
+        "name": "Asian American Resource Center",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.681009, 
+          30.339855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "55",
+        "name": "Grow Together at Horizon Bay Retirement Center",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.735088, 
+          30.491727
+        ]
+      }
     }
   ]
 }
