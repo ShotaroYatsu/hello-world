@@ -145,6 +145,167 @@
           30.275742
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "Deep Roots Garden of Whole Foods Market",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.751771, 
+          30.273110
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "name": "Duval Homestead",
+        "city": "Austin",
+        "href": ""
+        "affiliation": "Urban Patchwork Neighborhood Farms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.716251, 
+          30.321306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "name": "Emerald Wood",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.778647, 
+          30.212884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "name": "Faith Church",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742819, 
+          30.234877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "name": "Festival Beach",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.735115, 
+          30.254128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "Garden of Blessings at East Side Baptist Church",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.680230, 
+          30.314546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "name": "Genesis Gardens - Mobile Loaves and Fishes",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.685545, 
+          30.219030
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "name": "Good Soil",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.720676, 
+          30.273508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "name": "Greater Mount Zion",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.719635, 
+          30.271827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "name": "Grow Together",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764022, 
+          30.438064
+        ]
+      }
+    },
   ]
 }
