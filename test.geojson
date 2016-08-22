@@ -295,9 +295,10 @@
       "type": "Feature",
       "properties": {
         "id": "19",
-        "name": "Grow Together",
+        "name": "Grow Together Garden at Gateway Church",
         "city": "Austin",
-        "href": ""
+        "href": "http://o.gatewaychurch.com/event/community-garden-garden-work/",
+        "affiliation": "Grow Together"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +314,7 @@
         "id": "20",
         "name": "Gus Garcia Community Garden and Senior Garden",
         "city": "Austin",
-        "href": ""
+        "href": "https://www.facebook.com/Gardens.at.GusGarcia/"
       },
       "geometry": {
         "type": "Point",
@@ -455,9 +456,10 @@
       "type": "Feature",
       "properties": {
         "id": "29",
-        "name": "North Austin",
+        "name": "North Austin Garden",
         "city": "Austin",
-        "href": ""
+        "href": "http://www.austinymca.org/north-austin-community-garden",
+        "affiliation": "YMCA"
       },
       "geometry": {
         "type": "Point",
@@ -567,9 +569,9 @@
       "type": "Feature",
       "properties": {
         "id": "36",
-        "name": "Reagan",
+        "name": "Reagan High School",
         "city": "Austin",
-        "href": ""
+        "href": "https://sites.google.com/site/reagancommunitygarden"
       },
       "geometry": {
         "type": "Point",
@@ -649,7 +651,7 @@
         "id": "41",
         "name": "St. Andrew's Presbyterian Church",
         "city": "Austin",
-        "href": ""
+        "href": "http://www.staopen.org/our-ministries/garden-project/"
       },
       "geometry": {
         "type": "Point",
@@ -745,7 +747,8 @@
         "id": "47",
         "name": "Unity Park",
         "city": "Austin",
-        "href": ""
+        "href": "http://www.nhpnetwork.org/unity-park-cg.html",
+        "affiliation": "Neighborhood Harvest Project"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +876,8 @@
         "id": "55",
         "name": "Grow Together at Horizon Bay Retirement Center",
         "city": "Austin",
-        "href": ""
+        "href": "http://rivercityhopestreet.org/grow-together-community-gardens/",
+        "affiliation": "Grow Together"
       },
       "geometry": {
         "type": "Point",
