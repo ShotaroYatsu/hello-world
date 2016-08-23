@@ -886,6 +886,23 @@
           30.491727
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "56",
+        "name": "UT Microfarm",
+        "city": "Austin",
+        "href": "https://utmicrofarm.wordpress.com/",
+        "affiliation": "University of Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.724219, 
+          30.282913
+        ]
+      }
     }
   ]
 }
