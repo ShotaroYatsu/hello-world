@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1",
+        "id": "001",
         "name": "5604 Manor",
         "city": "Austin",
         "href": "https://www.facebook.com/5604ManorCommunityGarden/"
@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2",
+        "id": "002",
         "name": "Adelphi Acre",
         "city": "Austin",
         "href": "http://adelphiacre.org/"
@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3",
+        "id": "003",
         "name": "Alamo",
         "city": "Austin",
         "href": "http://alamocommunitygarden.weebly.com/"
@@ -52,7 +52,23 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4",
+        "id": "004",
+        "name": "Asian American Resource Center",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.681009, 
+          30.339855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "005",
         "name": "Blackshear",
         "city": "Austin",
         "href": "https://www.facebook.com/BlackshearCommunityGarden"
@@ -68,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "5",
+        "id": "006",
         "name": "Cherry Creek",
         "city": "Austin",
         "href": "https://cherrycreekgarden.com/"
@@ -84,7 +100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "6",
+        "id": "007",
         "name": "Cherrywood Farm",
         "city": "Austin",
         "href": "",
@@ -101,7 +117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "7",
+        "id": "008",
         "name": "Clarksville",
         "city": "Austin",
         "href": ""
@@ -117,7 +133,23 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "8",
+        "id": "009",
+        "name": "Conley-Guerrero",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.710984, 
+          30.265868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "010",
         "name": "Cumberland",
         "city": "Austin",
         "href": ""
@@ -133,7 +165,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "9",
+        "id": "011",
         "name": "Deep Eddy",
         "city": "Austin",
         "href": ""
@@ -149,7 +181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "10",
+        "id": "012",
         "name": "Deep Roots Garden of Whole Foods Market",
         "city": "Austin",
         "href": ""
@@ -165,7 +197,23 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "11",
+        "id": "013",
+        "name": "Dotty Jordan",
+        "city": "Austin",
+        "href": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.674009, 
+          30.314943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "014",
         "name": "Duval Homestead",
         "city": "Austin",
         "href": "",
@@ -182,7 +230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "12",
+        "id": "015",
         "name": "Emerald Wood",
         "city": "Austin",
         "href": ""
@@ -198,7 +246,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "13",
+        "id": "016",
         "name": "Faith Church",
         "city": "Austin",
         "href": ""
@@ -214,7 +262,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "14",
+        "id": "017",
         "name": "Festival Beach",
         "city": "Austin",
         "href": ""
@@ -230,7 +278,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "15",
+        "id": "018",
         "name": "Garden of Blessings at East Side Baptist Church",
         "city": "Austin",
         "href": ""
@@ -246,7 +294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "16",
+        "id": "019",
         "name": "Genesis Gardens - Mobile Loaves and Fishes",
         "city": "Austin",
         "href": ""
@@ -262,7 +310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "17",
+        "id": "020",
         "name": "Good Soil",
         "city": "Austin",
         "href": ""
@@ -278,7 +326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "18",
+        "id": "021",
         "name": "Greater Mount Zion",
         "city": "Austin",
         "href": ""
@@ -294,7 +342,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "19",
+        "id": "022",
         "name": "Grow Together Garden at Gateway Church",
         "city": "Austin",
         "href": "http://o.gatewaychurch.com/event/community-garden-garden-work/",
@@ -311,7 +359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "20",
+        "id": "023",
         "name": "Gus Garcia Community Garden and Senior Garden",
         "city": "Austin",
         "href": "https://www.facebook.com/Gardens.at.GusGarcia/"
@@ -327,7 +375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "21",
+        "id": "024",
         "name": "Homewood Heights",
         "city": "Austin",
         "href": ""
@@ -343,7 +391,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "22",
+        "id": "025",
         "name": "Hyde Park",
         "city": "Austin",
         "href": ""
@@ -359,7 +407,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "23",
+        "id": "026",
         "name": "Kenny Dorham's Backyard",
         "city": "Austin",
         "href": ""
@@ -375,7 +423,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "24",
+        "id": "027",
         "name": "La Paloma",
         "city": "Austin",
         "href": ""
@@ -391,7 +439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "25",
+        "id": "028",
         "name": "Manchaca United Methodist",
         "city": "Austin",
         "href": ""
@@ -407,7 +455,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "26",
+        "id": "029",
         "name": "Milburn",
         "city": "Austin",
         "href": ""
@@ -423,7 +471,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "27",
+        "id": "030",
         "name": "Montopolis",
         "city": "Austin",
         "href": ""
@@ -439,7 +487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "28",
+        "id": "031",
         "name": "New Day",
         "city": "Austin",
         "href": ""
@@ -455,7 +503,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "29",
+        "id": "032",
         "name": "North Austin Garden",
         "city": "Austin",
         "href": "http://www.austinymca.org/north-austin-community-garden",
@@ -472,7 +520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "30",
+        "id": "033",
         "name": "Oak Hill",
         "city": "Austin",
         "href": ""
@@ -488,7 +536,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "31",
+        "id": "034",
         "name": "Oswaldo A.B. Cantu/Pan American Recreation Center Senior Garden",
         "city": "Austin",
         "href": ""
@@ -504,7 +552,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "32",
+        "id": "035",
         "name": "Parker Lane United Methodist Church",
         "city": "Austin",
         "href": ""
@@ -520,7 +568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "33",
+        "id": "036",
         "name": "Patterson Park",
         "city": "Austin",
         "href": ""
@@ -536,7 +584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "34",
+        "id": "037",
         "name": "PEAS",
         "city": "Austin",
         "href": ""
@@ -552,7 +600,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "35",
+        "id": "038",
         "name": "Pecan Springs Commons",
         "city": "Austin",
         "href": ""
@@ -568,7 +616,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "36",
+        "id": "039",
         "name": "Reagan High School",
         "city": "Austin",
         "href": "https://sites.google.com/site/reagancommunitygarden"
@@ -584,7 +632,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "37",
+        "id": "040",
         "name": "Rollingwood",
         "city": "Austin",
         "href": ""
@@ -600,7 +648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "38",
+        "id": "041",
         "name": "Scenic Brook",
         "city": "Austin",
         "href": ""
@@ -616,7 +664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "39",
+        "id": "042",
         "name": "South Austin",
         "city": "Austin",
         "href": ""
@@ -632,7 +680,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "40",
+        "id": "043",
         "name": "South Austin Senior Activity Center Senior Garden",
         "city": "Austin",
         "href": ""
@@ -648,7 +696,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "41",
+        "id": "044",
         "name": "St. Andrew's Presbyterian Church",
         "city": "Austin",
         "href": "http://www.staopen.org/our-ministries/garden-project/"
@@ -664,7 +712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "42",
+        "id": "045",
         "name": "St. David's Foundation Community Garden",
         "city": "Austin",
         "href": ""
@@ -680,7 +728,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "43",
+        "id": "046",
         "name": "Sunfield",
         "city": "Austin",
         "href": ""
@@ -696,7 +744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "44",
+        "id": "047",
         "name": "Sunset Valley",
         "city": "Austin",
         "href": ""
@@ -712,7 +760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "45",
+        "id": "048",
         "name": "Sunshine",
         "city": "Austin",
         "href": ""
@@ -728,7 +776,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "46",
+        "id": "049",
         "name": "Third Day",
         "city": "Austin",
         "href": ""
@@ -744,11 +792,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "47",
+        "id": "050",
         "name": "Unity Park",
         "city": "Austin",
         "href": "http://www.nhpnetwork.org/unity-park-cg.html",
-        "affiliation": "Neighborhood Harvest Project"
+        "affiliation": "Neighborhood Harvest Project; Baha'i Faith of Round Rock"
       },
       "geometry": {
         "type": "Point",
@@ -761,7 +809,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "48",
+        "id": "051",
         "name": "UT Concho",
         "city": "Austin",
         "href": ""
@@ -777,7 +825,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "49",
+        "id": "052",
         "name": "Veterans Memorial",
         "city": "Austin",
         "href": ""
@@ -793,7 +841,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "50",
+        "id": "053",
         "name": "Westbank",
         "city": "Austin",
         "href": ""
@@ -809,7 +857,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "51",
+        "id": "054",
         "name": "Windsor Park",
         "city": "Austin",
         "href": ""
@@ -825,55 +873,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "52",
-        "name": "Conley-Guerrero",
-        "city": "Austin",
-        "href": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.710984, 
-          30.265868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "53",
-        "name": "Dotty Jordan",
-        "city": "Austin",
-        "href": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.674009, 
-          30.314943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "54",
-        "name": "Asian American Resource Center",
-        "city": "Austin",
-        "href": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.681009, 
-          30.339855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "55",
+        "id": "055",
         "name": "Grow Together at Horizon Bay Retirement Center",
         "city": "Austin",
         "href": "http://rivercityhopestreet.org/grow-together-community-gardens/",
